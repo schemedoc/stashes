@@ -2,10 +2,10 @@
 
 Scheme libraries that are not incorporated into the main package indexes.
 
-http://gambitscheme.org/wiki/index.php/Dumping_Grounds
+http://gambitscheme.org/wiki/index.php/Dumping_Grounds +
 http://snow.iro.umontreal.ca/
 
 http://synthcode.com/scheme/
 
-https://github.com/rotty?tab=repositories&language=Scheme
+https://github.com/rotty?tab=repositories&language=Scheme +
 https://github.com/rotty/spells
