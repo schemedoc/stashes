@@ -12,6 +12,6 @@ https://github.com/rotty/spells
 
 https://github.com/substratic
 
-https://github.com/okuoku/yuni
-https://github.com/okuoku/r7rs-bridge
+https://github.com/okuoku/yuni +
+https://github.com/okuoku/r7rs-bridge +
 https://github.com/okuoku/nausicaa
