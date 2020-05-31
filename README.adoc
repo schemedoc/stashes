@@ -4,18 +4,30 @@ Scheme libraries that are not incorporated into the main package indexes.
 
 ## Library collections / portability shims
 
-http://snow.iro.umontreal.ca/
+http://snow.iro.umontreal.ca/ +
 http://gambitscheme.org/wiki/index.php/Dumping_Grounds +
 https://github.com/okuoku/yuni +
 https://github.com/okuoku/r7rs-bridge +
 https://github.com/okuoku/nausicaa +
-https://github.com/rotty/spells
+https://github.com/rotty/spells +
+https://github.com/ar-nelson/schemepunk
+
+## Applications
+
+https://github.com/lambda-music/lamu
+
+## Mobile
+
+https://github.com/abarbu/android-kawa +
+https://github.com/rafleon/KawaDroid
 
 ## Games
 
-https://github.com/substratic
+https://github.com/substratic +
+https://github.com/otabat/libgdx-example +
+https://github.com/bitsai/orc-battle
 
 ## Individuals
 
-https://github.com/rotty?tab=repositories&language=Scheme
+https://github.com/rotty?tab=repositories&language=Scheme +
 http://synthcode.com/scheme/
