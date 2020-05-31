@@ -2,16 +2,20 @@
 
 Scheme libraries that are not incorporated into the main package indexes.
 
-http://gambitscheme.org/wiki/index.php/Dumping_Grounds +
+## Library collections / portability shims
+
 http://snow.iro.umontreal.ca/
-
-http://synthcode.com/scheme/
-
-https://github.com/rotty?tab=repositories&language=Scheme +
+http://gambitscheme.org/wiki/index.php/Dumping_Grounds +
+https://github.com/okuoku/yuni +
+https://github.com/okuoku/r7rs-bridge +
+https://github.com/okuoku/nausicaa +
 https://github.com/rotty/spells
+
+## Games
 
 https://github.com/substratic
 
-https://github.com/okuoku/yuni +
-https://github.com/okuoku/r7rs-bridge +
-https://github.com/okuoku/nausicaa
+## Individuals
+
+https://github.com/rotty?tab=repositories&language=Scheme
+http://synthcode.com/scheme/
