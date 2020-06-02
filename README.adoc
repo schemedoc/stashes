@@ -11,7 +11,9 @@ https://github.com/okuoku/r7rs-bridge +
 https://github.com/okuoku/nausicaa +
 https://github.com/rotty/spells +
 https://github.com/ar-nelson/schemepunk +
-https://github.com/evilbinary/scheme-lib
+https://github.com/evilbinary/scheme-lib +
+https://github.com/TaylanUB/scheme-srfis +
+https://github.com/mbenelli/klio
 
 ## Applications
 
