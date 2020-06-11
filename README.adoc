@@ -33,7 +33,7 @@ https://github.com/bitsai/orc-battle
 ## Individuals
 
 https://github.com/rotty?tab=repositories&language=Scheme +
-http://synthcode.com/scheme/
+http://synthcode.com/scheme/ +
 https://mumble.net/~campbell/scheme/
 
 ## Mirrors
