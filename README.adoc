@@ -6,6 +6,7 @@ Scheme libraries that are not incorporated into the main package indexes.
 
 http://snow.iro.umontreal.ca/ +
 http://gambitscheme.org/wiki/index.php/Dumping_Grounds +
+https://github.com/per-gron/blackhole-libs (Gambit Black Hole) +
 https://github.com/okuoku/yuni +
 https://github.com/okuoku/r7rs-bridge +
 https://github.com/okuoku/nausicaa +
