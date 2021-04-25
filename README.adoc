@@ -14,7 +14,8 @@ https://github.com/rotty/spells +
 https://github.com/ar-nelson/schemepunk +
 https://github.com/evilbinary/scheme-lib +
 https://github.com/TaylanUB/scheme-srfis +
-https://github.com/mbenelli/klio
+https://github.com/mbenelli/klio +
+https://github.com/alvatar/spheres
 
 ## Applications
 
