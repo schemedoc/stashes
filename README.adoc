@@ -16,7 +16,8 @@ https://github.com/evilbinary/scheme-lib +
 https://github.com/TaylanUB/scheme-srfis +
 https://github.com/mbenelli/klio +
 https://github.com/damien-mattei/Scheme-PLUS-for-Guile +
-https://github.com/alvatar/spheres
+https://github.com/alvatar/spheres +
+https://github.com/per-gron/srfi
 
 ## Applications
 
